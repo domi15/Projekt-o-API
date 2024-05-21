@@ -21,3 +21,8 @@ napraviti program u pythonu i u javascriptu koji
 se povezuje na OMDb i preuzima činjenice o filmu
 koji mu korisnik zada. Za korištenje ovog API-ja
 mi je bio potreban API ključ koji je bio besplatan.
+
+Izvori su:
+wikipedia.com
+youtube.com/techquickie
+aws.amazon.com
