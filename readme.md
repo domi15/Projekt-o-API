@@ -23,6 +23,9 @@ koji mu korisnik zada. Za korištenje ovog API-ja
 mi je bio potreban API ključ koji je bio besplatan.
 
 Izvori su:
+
 wikipedia.com
+
 youtube.com/techquickie
+
 aws.amazon.com
